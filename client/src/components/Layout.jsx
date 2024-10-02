@@ -7,7 +7,11 @@ const Layout=()=>{
         <>
         <NavBar/>
         <Outlet/>
-        <h6 align="center">Footer Part</h6>
+        <div className='bg-black text-white  '>
+        <h6 className='text-center'>Footer Part</h6>
+        </div>
+
+        
         </>
     )
 }

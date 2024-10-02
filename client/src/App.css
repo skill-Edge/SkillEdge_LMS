@@ -6,7 +6,7 @@
     background-color: #f8f9fa; 
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1); /* Add shadow */
     border-radius: 8px; /* Optional: Add rounded corners */
-    height: 1.5rem;
+    height: 2.8rem;
 }
 
 .navleft {
@@ -48,7 +48,7 @@
 }
 
 .navright input {
-    padding: 0.5rem;
+    padding: 0.3rem;
     font-size: 1rem;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -56,7 +56,7 @@
 }
 
 .navright button {
-    padding: 0.5rem 1rem;
+    padding: 0.3rem 1rem;
     font-size: 1rem;
     background-color: #007bff;
     color: white;
