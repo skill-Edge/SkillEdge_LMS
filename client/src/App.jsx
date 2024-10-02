@@ -9,7 +9,6 @@ const App=()=>{
     <BrowserRouter>
     <Routes>
       <Route path="/" element={<Layout/>}>
-      <Route path="home" element={<Home/>}/>
       </Route>
     </Routes>
     </BrowserRouter>
